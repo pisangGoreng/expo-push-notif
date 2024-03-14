@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "68968b12-8922-463a-85c7-b0ac1a65f6f3"
+      }
+    },
+    "owner": "pisanggoreng"
   }
 }
